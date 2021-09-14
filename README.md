@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AgbajeF
 - 👀 I’m interested in Data Science, Data Analysis, and Data Engineering Software Developmet, Web Development. They are all interesting but my career focus is Data Science.
-- 🌱 I’m constantly on Udemy, EDx or YouTube sharpening my skills
+- 🌱 I’m constantly on Udemy, Coursera or YouTube sharpening my skills
 - 💞️ I’m looking to collaborate on any projects where a "beginner" can contribute.
 - 📫 How to reach me: Email - agbaje.farouk@gmail.com
