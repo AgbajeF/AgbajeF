@@ -3,3 +3,4 @@
 - 🌱 I’m constantly on Udemy, Coursera or YouTube sharpening my skills
 - 💞️ I’m looking to collaborate on any projects where a "beginner" can contribute.
 - 📫 How to reach me: Email - agbaje.farouk@gmail.com
+- Here's a link to my tableau public page: https://public.tableau.com/app/profile/agbajef
